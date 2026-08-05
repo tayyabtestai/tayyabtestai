@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 882" width="1280" height="882" role="img" aria-label="Tayyab Ismail skill set">
+  <defs>
+    <linearGradient id="sg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b6ff00" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#e0764f" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0b0b09" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="sgrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.028" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="882" rx="20" fill="#0b0b09"/>
+  <rect width="1280" height="882" rx="20" fill="url(#sgrid)"/>
+  <rect width="1280" height="882" rx="20" fill="url(#sg)"/>
+  <rect x="0.5" y="0.5" width="1279" height="881" rx="20" fill="none" stroke="#26261f"/>
+
+  <rect x="56" y="48" width="4" height="26" rx="2" fill="#b6ff00"/>
+  <text x="74" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24" font-weight="700" letter-spacing="-0.4" fill="#f4f1eb">Skill set</text>
+  <text x="1224" y="70" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8c8c86">production-tested, not tutorial-tested</text>
+
+  <text x="56" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#8c8c86">AI &amp; MACHINE LEARNING</text>
+  <rect x="56" y="128" width="1168" height="1" fill="#2a2a26"/>
+  <g>
+    <rect x="56" y="150" width="189" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="170" r="4" fill="#b6ff00"/>
+    <text x="92" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">LLM Engineering</text>
+  </g>
+  <g>
+    <rect x="257" y="150" width="153" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="279" cy="170" r="4" fill="#b6ff00"/>
+    <text x="293" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">RAG Systems</text>
+  </g>
+  <g>
+    <rect x="422" y="150" width="135" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="444" cy="170" r="4" fill="#b6ff00"/>
+    <text x="458" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">AI Agents</text>
+  </g>
+  <g>
+    <rect x="569" y="150" width="243" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="591" cy="170" r="4" fill="#b6ff00"/>
+    <text x="605" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Multi-Agent Workflows</text>
+  </g>
+  <g>
+    <rect x="824" y="150" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="846" cy="170" r="4" fill="#b6ff00"/>
+    <text x="860" y="175" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Machine Learning</text>
+  </g>
+  <g>
+    <rect x="56" y="202" width="234" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="222" r="4" fill="#b6ff00"/>
+    <text x="92" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Predictive Analytics</text>
+  </g>
+  <g>
+    <rect x="302" y="202" width="216" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="324" cy="222" r="4" fill="#b6ff00"/>
+    <text x="338" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Prompt Engineering</text>
+  </g>
+  <g>
+    <rect x="530" y="202" width="126" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="552" cy="222" r="4" fill="#b6ff00"/>
+    <text x="566" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Voice AI</text>
+  </g>
+  <g>
+    <rect x="668" y="202" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="690" cy="222" r="4" fill="#b6ff00"/>
+    <text x="704" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Vector Databases</text>
+  </g>
+  <g>
+    <rect x="878" y="202" width="216" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="900" cy="222" r="4" fill="#b6ff00"/>
+    <text x="914" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Evals &amp; Guardrails</text>
+  </g>
+  <text x="56" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#8c8c86">MODELS &amp; FRAMEWORKS</text>
+  <rect x="56" y="286" width="1168" height="1" fill="#2a2a26"/>
+  <g>
+    <rect x="56" y="308" width="108" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="328" r="4" fill="#e0764f"/>
+    <text x="92" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Claude</text>
+  </g>
+  <g>
+    <rect x="176" y="308" width="144" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="198" cy="328" r="4" fill="#e0764f"/>
+    <text x="212" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">OpenAI GPT</text>
+  </g>
+  <g>
+    <rect x="332" y="308" width="108" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="354" cy="328" r="4" fill="#e0764f"/>
+    <text x="368" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Gemini</text>
+  </g>
+  <g>
+    <rect x="452" y="308" width="135" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="474" cy="328" r="4" fill="#e0764f"/>
+    <text x="488" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">LangChain</text>
+  </g>
+  <g>
+    <rect x="599" y="308" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="621" cy="328" r="4" fill="#e0764f"/>
+    <text x="635" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Claude Agent SDK</text>
+  </g>
+  <g>
+    <rect x="809" y="308" width="144" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="831" cy="328" r="4" fill="#e0764f"/>
+    <text x="845" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Embeddings</text>
+  </g>
+  <g>
+    <rect x="965" y="308" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="987" cy="328" r="4" fill="#e0764f"/>
+    <text x="1001" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Function Calling</text>
+  </g>
+  <g>
+    <rect x="56" y="360" width="81" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="380" r="4" fill="#e0764f"/>
+    <text x="92" y="385" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">MCP</text>
+  </g>
+  <g>
+    <rect x="149" y="360" width="153" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="171" cy="380" r="4" fill="#e0764f"/>
+    <text x="185" y="385" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Fine-Tuning</text>
+  </g>
+  <g>
+    <rect x="314" y="360" width="216" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="336" cy="380" r="4" fill="#e0764f"/>
+    <text x="350" y="385" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Structured Outputs</text>
+  </g>
+  <text x="56" y="434" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#8c8c86">AUTOMATION &amp; ORCHESTRATION</text>
+  <rect x="56" y="444" width="1168" height="1" fill="#2a2a26"/>
+  <g>
+    <rect x="56" y="466" width="81" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="92" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">n8n</text>
+  </g>
+  <g>
+    <rect x="149" y="466" width="90" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="171" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="185" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Make</text>
+  </g>
+  <g>
+    <rect x="251" y="466" width="225" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="273" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="287" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Workflow Automation</text>
+  </g>
+  <g>
+    <rect x="488" y="466" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="510" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="524" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">API Integrations</text>
+  </g>
+  <g>
+    <rect x="698" y="466" width="126" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="720" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="734" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Webhooks</text>
+  </g>
+  <g>
+    <rect x="836" y="466" width="180" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="858" cy="486" r="4" fill="#7fd4ff"/>
+    <text x="872" y="491" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">CRM Automation</text>
+  </g>
+  <g>
+    <rect x="56" y="518" width="216" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="538" r="4" fill="#7fd4ff"/>
+    <text x="92" y="543" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Document Pipelines</text>
+  </g>
+  <g>
+    <rect x="284" y="518" width="198" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="306" cy="538" r="4" fill="#7fd4ff"/>
+    <text x="320" y="543" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Email Automation</text>
+  </g>
+  <g>
+    <rect x="494" y="518" width="180" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="516" cy="538" r="4" fill="#7fd4ff"/>
+    <text x="530" y="543" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Scheduled Jobs</text>
+  </g>
+  <text x="56" y="592" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#8c8c86">ENGINEERING &amp; DATA</text>
+  <rect x="56" y="602" width="1168" height="1" fill="#2a2a26"/>
+  <g>
+    <rect x="56" y="624" width="108" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="644" r="4" fill="#b6ff00"/>
+    <text x="92" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Python</text>
+  </g>
+  <g>
+    <rect x="176" y="624" width="144" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="198" cy="644" r="4" fill="#b6ff00"/>
+    <text x="212" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">TypeScript</text>
+  </g>
+  <g>
+    <rect x="332" y="624" width="99" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="354" cy="644" r="4" fill="#b6ff00"/>
+    <text x="368" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">React</text>
+  </g>
+  <g>
+    <rect x="443" y="624" width="117" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="465" cy="644" r="4" fill="#b6ff00"/>
+    <text x="479" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Node.js</text>
+  </g>
+  <g>
+    <rect x="572" y="624" width="117" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="594" cy="644" r="4" fill="#b6ff00"/>
+    <text x="608" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">FastAPI</text>
+  </g>
+  <g>
+    <rect x="701" y="624" width="144" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="723" cy="644" r="4" fill="#b6ff00"/>
+    <text x="737" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">PostgreSQL</text>
+  </g>
+  <g>
+    <rect x="857" y="624" width="126" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="879" cy="644" r="4" fill="#b6ff00"/>
+    <text x="893" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Supabase</text>
+  </g>
+  <g>
+    <rect x="995" y="624" width="108" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="1017" cy="644" r="4" fill="#b6ff00"/>
+    <text x="1031" y="649" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Docker</text>
+  </g>
+  <g>
+    <rect x="56" y="676" width="135" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="696" r="4" fill="#b6ff00"/>
+    <text x="92" y="701" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">REST APIs</text>
+  </g>
+  <g>
+    <rect x="203" y="676" width="144" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="225" cy="696" r="4" fill="#b6ff00"/>
+    <text x="239" y="701" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Cloudflare</text>
+  </g>
+  <g>
+    <rect x="359" y="676" width="81" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="381" cy="696" r="4" fill="#b6ff00"/>
+    <text x="395" y="701" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">SQL</text>
+  </g>
+  <g>
+    <rect x="452" y="676" width="180" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="474" cy="696" r="4" fill="#b6ff00"/>
+    <text x="488" y="701" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Pandas &amp; NumPy</text>
+  </g>
+  <text x="56" y="750" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="2.4" fill="#8c8c86">AI-NATIVE TOOLING</text>
+  <rect x="56" y="760" width="1168" height="1" fill="#2a2a26"/>
+  <g>
+    <rect x="56" y="782" width="153" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="78" cy="802" r="4" fill="#e0764f"/>
+    <text x="92" y="807" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Claude Code</text>
+  </g>
+  <g>
+    <rect x="221" y="782" width="108" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="243" cy="802" r="4" fill="#e0764f"/>
+    <text x="257" y="807" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Cursor</text>
+  </g>
+  <g>
+    <rect x="341" y="782" width="117" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="363" cy="802" r="4" fill="#e0764f"/>
+    <text x="377" y="807" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Lovable</text>
+  </g>
+  <g>
+    <rect x="470" y="782" width="99" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="492" cy="802" r="4" fill="#e0764f"/>
+    <text x="506" y="807" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Codex</text>
+  </g>
+  <g>
+    <rect x="581" y="782" width="234" height="40" rx="10" fill="#16160f" stroke="#2e2e28"/>
+    <circle cx="603" cy="802" r="4" fill="#e0764f"/>
+    <text x="617" y="807" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#e8e6df">Git &amp; GitHub Actions</text>
+  </g>
+</svg>
